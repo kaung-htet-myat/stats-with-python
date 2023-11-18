@@ -2,8 +2,8 @@
 ## A collection of statistical concepts implemented in Python
 
 When I wanted to study statistics, I used to do courses and learnt the formal way. But after spending hours and hours of watching lectures and solving exercises, all I am left with are the pieces of scribbles in notebooks. So, I tried to apply those concepts in real datasets and scenerios.   
-IPython notebooks are the perfect tool to writedown notes and play around with codes at the same time. So, this repository is my humble attempt to note down my understanding of the statistical concepts and applying them on realworld datasets at the same time.   
-The way this repository is organized is the topics are put into separate folders. Each folder contains all the notebooks, related files and documents of a particular topic.    
+IPython notebooks are the perfect tool to writedown notes and play around with codes at the same time. So, this repository is my humble attempt to note down my understanding of the statistical concepts while applying them on realworld datasets.   
+The way this repository is organized is the topics are put into separate folders. Each folder contains all the notebooks, related files and documents for a particular topic.    
 
 ### Using the repository
 I highly recommend you to clone the repository and run the notebooks yourself rather than just passively reading.   
