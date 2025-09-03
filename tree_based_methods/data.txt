@@ -1,0 +1,3 @@
+Dataset used in this notebook is "Loan Approval Prediction" datatset from Kaggle.
+
+url: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
