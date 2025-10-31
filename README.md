@@ -21,12 +21,25 @@ Or you can upload the notebooks to Google Colab and run there.
 Currently, the following concepts are provided:
 1. Summary Statistics
 2. Hypothesis Testing
+3. Regression
+4. Classification
+5. Tree-based methods
+6. SVM
 
 more to come as I learn more and more topics.   
-    
+
 ### Datasets
 Datasets used in this repository are publically available datasets under public domain licenses as of the time I implemented the notebook.   
 1. Summary Statistics
     - https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 2. Hypothesis Testing
     - https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+3. Regression
+    - https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+    - https://www.kaggle.com/datasets/mirichoi0218/insurance
+4. Classification
+    - https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+5. Tree-based methods
+    - https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+    - https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+    - https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
